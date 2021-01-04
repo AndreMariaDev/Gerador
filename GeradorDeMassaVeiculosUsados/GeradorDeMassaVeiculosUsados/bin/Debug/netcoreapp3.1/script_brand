@@ -1,0 +1,1 @@
+INSERT INTO public.tbl_marca(cod_marca "Id",statu_ativo, dat_criac, dat_atual, cod_usuar, nom_marca) VALUES(0, f8a23c27-09f0-475d-94f2-843160d898d0, True, 29/12/2020 18:22:00, , 1234567, Mercedes-Benz); 

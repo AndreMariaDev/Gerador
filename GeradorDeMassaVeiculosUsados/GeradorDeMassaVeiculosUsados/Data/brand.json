@@ -1,0 +1,541 @@
+[
+  {
+    "id": "4a9bc441-4e09-4de0-a383-79540a74eb9c",
+    "isActive": true,
+    "createDate": "2020-11-14T14:16:10.536Z",
+    "dateUpdate": "2020-11-14T14:16:10.536Z",
+    "userCode": "12345",
+    "code": 1,
+    "name": "Fiat",
+    "vehiclesModel": [
+      {
+        "code": 4,
+        "name": "147",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "715621cf-245f-4460-aa76-362a5a598a48",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 5,
+        "name": "147 Furgao",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "7209a69c-68f2-4db5-b4fc-dc7ec67528e9",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 6,
+        "name": "147 Pick-Up",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "7b565546-87c4-4027-9037-2161b2673971",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 7,
+        "name": "500",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "f7d3921a-ec43-4ee0-815f-485dd3d9dc66",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 8,
+        "name": "Argo",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "55f9097e-f356-4973-81f4-a96bccb7c7ca",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 9,
+        "name": "Brava",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "7e735953-5144-4c5b-931f-60a8b44ff3fd",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 10,
+        "name": "Bravo",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "df791ae2-2408-43db-abbd-cc566a60d060",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 11,
+        "name": "Cinquecento",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "75462ff3-af33-45fe-812b-2ccff153bb2f",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 12,
+        "name": "Coupe",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "b644d7a5-8e3d-448c-b5df-3f9dabdecfb9",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 13,
+        "name": "Cronos",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "f24d31b1-cbc4-4923-bead-f4e3edc85251",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 14,
+        "name": "Doblo",
+        "codeBrand": 1,
+        "brand": null,
+        "id": "894d88f5-19df-4597-af24-509f5e333282",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      }
+    ]
+  },
+  {
+    "id": "2af61232-b730-4a5b-84f3-0ede42946938",
+    "isActive": true,
+    "createDate": "2020-11-14T14:16:10.536Z",
+    "dateUpdate": "2020-11-14T14:16:10.536Z",
+    "userCode": "12345",
+    "code": 2,
+    "name": "Volkswagen",
+    "vehiclesModel": [
+      {
+        "code": 15,
+        "name": "Amarok",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "b9c115c6-ff57-43f1-aa3f-c0d7c3e2c82a",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 16,
+        "name": "Apollo",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "138c7a92-59c3-4b03-9714-b887dabe71f6",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 17,
+        "name": "Bora",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "63f01e6e-56cd-40c8-b16a-225bf704193d",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 18,
+        "name": "Brasilia",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "f16cabae-7f92-404e-ab6d-5e637a60941e",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 19,
+        "name": "Caravelle",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "c6f9d1e7-a497-430c-843c-93eee9e0e666",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 20,
+        "name": "CC",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "d53a08e9-c659-4636-bb8e-169dfb7e00f6",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 21,
+        "name": "Corrado",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "3d529c8e-7d6b-42aa-b6da-23db7802b3a1",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 22,
+        "name": "CrossFox",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "f7e0f94f-267a-43dc-a3b9-bded3f6eb5c2",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 23,
+        "name": "Eos",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "33d4ac80-61f4-446d-9852-dd8e3e9a0c4f",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 24,
+        "name": "Eurovan",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "c67a810e-3668-4101-b141-faf448e5257e",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 25,
+        "name": "Fox",
+        "codeBrand": 2,
+        "brand": null,
+        "id": "7deeb3c9-a08c-46b0-be2d-e0eaca7bd89d",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      }
+    ]
+  },
+  {
+    "id": "e8802bb5-738f-48a0-84b2-7f8983d61463",
+    "isActive": true,
+    "createDate": "2020-11-14T14:16:10.536Z",
+    "dateUpdate": "2020-11-14T14:16:10.536Z",
+    "userCode": "12345",
+    "code": 4,
+    "name": "Mercedes-Benz",
+    "vehiclesModel": [
+      {
+        "code": 26,
+        "name": "180 D",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "1e781e95-1e46-4140-a021-856558dc324f",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 27,
+        "name": "190",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "ad952b69-44a4-46bd-9112-7d73f483f3f9",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 28,
+        "name": "230",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "f4506b3f-1ce5-4e06-be0c-8812050ca43a",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 29,
+        "name": "240",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "7e74a09c-82e3-42cc-b0b8-38cb860b9590",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 30,
+        "name": "250",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "d02b1be5-22aa-4b8d-acfc-4d55e1fee98d",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 31,
+        "name": "260",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "f36c8928-8df8-4173-84ee-a88cd8d0ad86",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 32,
+        "name": "280",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "ac81fb1f-112c-4190-8c35-e2ca495a4380",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 33,
+        "name": "300",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "03be789c-f452-42ae-8cb2-35175042827a",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 34,
+        "name": "450",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "4da51f7e-d232-4af1-8745-c2230735449f",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 35,
+        "name": "500",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "66aac180-a3e7-4c30-9dd0-dfe408bb699a",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 36,
+        "name": "560",
+        "codeBrand": 4,
+        "brand": null,
+        "id": "c2f82fd7-1d36-4b93-b500-e0a5b48c93c5",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      }
+    ]
+  },
+  {
+    "id": "2b40cc8d-9319-4077-b604-5de43775fb67",
+    "isActive": true,
+    "createDate": "2020-11-14T14:16:10.536Z",
+    "dateUpdate": "2020-11-14T14:16:10.536Z",
+    "userCode": "12345",
+    "code": 5,
+    "name": "Volvo",
+    "vehiclesModel": [
+      {
+        "code": 37,
+        "name": "440",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "834ce161-3a73-489b-814c-26f038cbf5b8",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 38,
+        "name": "460",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "4bce9a43-2bd1-480c-9fc8-c142c610b10b",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 39,
+        "name": "850",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "1855a57d-9c29-4fd0-a5dd-d3fc36e13151",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 40,
+        "name": "855",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "e778c640-4bee-45df-bb3a-8a79d16fe5ae",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 41,
+        "name": "940",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "93b54aa5-797c-4a7e-b4c0-90b9732ad0d7",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 42,
+        "name": "940 Station-Wagon",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "5e8da185-d2fb-421d-b760-b285073b0a2d",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 43,
+        "name": "C70",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "321c515e-2f2f-4a14-a1e7-8fdb90b694ba",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 44,
+        "name": "S40",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "e6d4d18b-9a4a-4a7f-821c-5286509638f6",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 45,
+        "name": "S60",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "fc4aecdf-98a5-4119-af9d-91e3d7f6f3e2",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 46,
+        "name": "S70",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "1e40d67d-f28e-48fd-be09-fc2ff8c0e56c",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 47,
+        "name": "S80",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "ee38f1e1-d62d-48ed-adb0-c48f79f2ea5b",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      },
+      {
+        "code": 48,
+        "name": "S90",
+        "codeBrand": 5,
+        "brand": null,
+        "id": "20275895-2492-452e-9d05-7b255301d229",
+        "isActive": true,
+        "createDate": "2020-11-14T14:16:10.536",
+        "dateUpdate": "2020-11-14T14:16:10.536",
+        "userCode": "12345"
+      }
+    ]
+  }
+]

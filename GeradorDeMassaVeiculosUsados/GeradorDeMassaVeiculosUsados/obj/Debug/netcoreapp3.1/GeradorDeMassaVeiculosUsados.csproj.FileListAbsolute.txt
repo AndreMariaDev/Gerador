@@ -1,0 +1,16 @@
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.exe
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\Data\brand.json
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\Data\producttype.json
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\Data\registrationstatus.json
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.deps.json
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.runtimeconfig.json
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.runtimeconfig.dev.json
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.dll
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\bin\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.pdb
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\obj\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.csprojAssemblyReference.cache
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\obj\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.AssemblyInfoInputs.cache
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\obj\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.AssemblyInfo.cs
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\obj\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.csproj.CoreCompileInputs.cache
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\obj\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.dll
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\obj\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.pdb
+C:\Users\ADMR\source\repos\GeradorDeMassaVeiculosUsados\GeradorDeMassaVeiculosUsados\obj\Debug\netcoreapp3.1\GeradorDeMassaVeiculosUsados.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+    "code": 17,
+    "name": "Casa Vila Mogilar",
+    "codeProductType": 5,
+    "registrationNumber": "1234",
+    "registrationYear": "2020",
+    "price": "R$ 200.000,00",
+    "priceValue": 200000.0,
+    "otherInformation": null,
+    "imageGallery": "37b87d9a-8099-4c92-9cba-5e138b5a13a8",
+    "codeStatus": 1,
+    "location": "São Paulo",
+    "codeTypeImmoble": 0,
+    "soldImmobile": true,
+    "deactivationType": null,
+    "deactivationDate": null,
+    "proposals": null,
+    "id": "8b3225ff-b313-4a08-bd29-1f09883a5414",
+    "isActive": true,
+    "createDate": "2020-12-14T18:37:59.975",
+    "dateUpdate": "2020-12-14T21:18:34.035",
+    "userCode": "123456"
+}

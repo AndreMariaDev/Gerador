@@ -1,0 +1,20 @@
+[
+  {
+    "code": 1,
+    "name": "Ativo",
+    "id": "715621cf-245f-4460-aa76-362a5a598a48",
+    "isActive": true,
+    "createDate": "2020-11-14T16:25:18.152",
+    "dateUpdate": "2020-11-14T16:25:18.152",
+    "userCode": "12345"
+  },
+  {
+    "code": 2,
+    "name": "Inativo",
+    "id": "7209a69c-68f2-4db5-b4fc-dc7ec67528e9",
+    "isActive": true,
+    "createDate": "2020-11-14T16:25:18.152",
+    "dateUpdate": "2020-11-14T16:25:18.152",
+    "userCode": "12345"
+  }
+]

@@ -1,0 +1,23 @@
+{
+    "code": 18,
+    "name": "edi andre teste 1412 alterado",
+    "codeProductType": 5,
+    "registrationNumber": "98777",
+    "registrationYear": "2000",
+    "price": "R$ 700.000,00",
+    "priceValue": 700000.0,
+    "otherInformation": "edi andre teste 1412",
+    "imageGallery": "0825297c-fe79-4c0a-807f-4bf942c9bb8e,9f4ac6f0-0688-42f3-8bac-367322120041",
+    "codeStatus": 2,
+    "location": "são paulo",
+    "codeTypeImmoble": 1,
+    "soldImmobile": true,
+    "deactivationType": "Automática",
+    "deactivationDate": "2020-12-14T20:12:18.797521",
+    "proposals": null,
+    "id": "96cb22c4-7e25-4d31-bd11-cf12969222b5",
+    "isActive": true,
+    "createDate": "2020-12-14T19:57:10.163",
+    "dateUpdate": "2020-12-14T19:59:39.667",
+    "userCode": "12345"
+}

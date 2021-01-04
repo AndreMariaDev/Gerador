@@ -1,0 +1,56 @@
+[
+  {
+    "code": 1,
+    "name": "Automóveis",
+    "id": "9770b712-da41-47fa-8864-bdfc6a2cc161",
+    "isActive": true,
+    "createDate": "2020-11-14T14:09:29.697",
+    "dateUpdate": "2020-11-14T14:09:29.697",
+    "userCode": "12345"
+  },
+  {
+    "code": 2,
+    "name": "Caminhões",
+    "id": "1b50b4d9-1155-44ef-98b7-37fa0a66000d",
+    "isActive": true,
+    "createDate": "2020-11-14T14:09:29.697",
+    "dateUpdate": "2020-11-14T14:09:29.697",
+    "userCode": "12345"
+  },
+  {
+    "code": 3,
+    "name": "Ônibus",
+    "id": "a0d2a04c-eda8-446f-a2e0-4e7b2a92b18f",
+    "isActive": true,
+    "createDate": "2020-11-14T14:09:29.697",
+    "dateUpdate": "2020-11-14T14:09:29.697",
+    "userCode": "12345"
+  },
+  {
+    "code": 4,
+    "name": "Vans",
+    "id": "7f4b26fd-cbda-4c62-8b40-88930293db19",
+    "isActive": true,
+    "createDate": "2020-11-14T14:09:29.697",
+    "dateUpdate": "2020-11-14T14:09:29.697",
+    "userCode": "12345"
+  },
+  {
+    "code": 5,
+    "name": "Imóveis",
+    "id": "4fc1d97e-8c22-477a-babc-937e6a58f60e",
+    "isActive": true,
+    "createDate": "2020-11-14T14:09:29.697",
+    "dateUpdate": "2020-11-14T14:09:29.697",
+    "userCode": "12345"
+  },
+  {
+    "code": 6,
+    "name": "Outros",
+    "id": "8b6587e0-1c92-4455-b1e7-21e5a4801ee4",
+    "isActive": true,
+    "createDate": "2020-11-14T14:09:29.697",
+    "dateUpdate": "2020-11-14T14:09:29.697",
+    "userCode": "12345"
+  }
+]
